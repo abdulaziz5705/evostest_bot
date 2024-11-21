@@ -1,0 +1,133 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-11-21 23:35+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/back.py:14 handlers/users/start.py:68
+msgid "Quydagilardan  bittasini tanlashingiz mumkun 👇"
+msgstr "Выберите одно из следующих 👇"
+
+#: handlers/users/feedback.py:13
+msgid "Adminga xabar yuborishingiz mumukun"
+msgstr "Вы можете отправить сообщение администратору"
+
+#: handlers/users/feedback.py:20
+msgid "Xabar matnini kiriting:"
+msgstr "Введите текст сообщения:"
+
+#: handlers/users/feedback.py:33
+msgid "Xabar muvaffaqiyatli yuborildi!"
+msgstr "Сообщение отправлено успешно!"
+
+#: handlers/users/menu.py:13
+msgid "Siz menuni tanladingiz"
+msgstr "Вы выбрали меню"
+
+#: handlers/users/settings.py:9
+msgid "Sozlamalar"
+msgstr "Настройка"
+
+#: handlers/users/start.py:22
+msgid "Pastagilardan bittasini tanlashingiz mumkun 👇"
+msgstr "Выберите одно из следующих 👇"
+
+#: handlers/users/start.py:34
+msgid "Iltimos ismingizni kiriting "
+msgstr "Пожалуйста, введите свое имя "
+
+#: handlers/users/start.py:44
+msgid "Iltimos pasdagi kontakt ulashish tugmasini bosing 📞"
+msgstr "Пожалуйста, нажмите кнопку поделиться контактом в проходе  📞"
+
+#: handlers/users/start.py:54
+msgid "❌ Telefon nomer formati xato "
+msgstr "❌ Ошибка формата телефонного номера "
+
+#: handlers/users/start.py:66
+msgid "Muvofaqiyatli ro'yhatdan o'ttingiz  ✅ "
+msgstr "Вы зарегистрировались соответствующим образом ✅"
+
+#: handlers/users/start.py:72
+msgid "Iltimos kiyenroq urunib ko'ring"
+msgstr "Пожалуйста, попробуйте поже"
+
+# Russian translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#: handlers/users/start.py:92
+#, fuzzy
+msgid "Til o'zgartirildi"
+msgstr "Язык изменен"
+"Язык измененProject-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-11-21 22:37+0500\n"
+"PO-Revision-Date: 2024-11-20 17:29+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: keyboards/command.py:7
+msgid "Raqamni yuborish"
+msgstr "Отправить мой номер"
+
+#: keyboards/default/users.py:8
+msgid "Menu 🌯"
+msgstr "Меню 🌯"
+
+#: keyboards/default/users.py:11
+msgid "Mening zakazlarim 🛍"
+msgstr "Мои заказы 🛍"
+
+#: keyboards/default/users.py:14
+msgid "Fikir qoldirish ✍️"
+msgstr "Оставить отзыв ✍️ "
+
+#: keyboards/default/users.py:15
+msgid "Sozlamalar ⚙️"
+msgstr "Настройка ⚙️"
+
+#: keyboards/default/users.py:42
+msgid "Mening manzilim 🗺 "
+msgstr "Мой адрес 🗺 "
+
+#: keyboards/default/users.py:45
+msgid "Lokatsiya junatish 📍"
+msgstr "Отправить мой лакатсию 📍"
+
+#: keyboards/default/users.py:46 keyboards/default/users.py:60
+#: keyboards/default/users.py:73
+msgid "Orqaga ⬅️"
+msgstr "Назад ⬅️"
+
+#: keyboards/default/users.py:57
+msgid "Tilni o'zgartirish"
+msgstr "Изменить язык"
+
+#: keyboards/default/users.py:70
+msgid "Xabarni Yuborish"
+msgstr "Отправить сообщение"
+

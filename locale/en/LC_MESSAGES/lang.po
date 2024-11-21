@@ -1,0 +1,114 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-11-21 23:35+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/back.py:14 handlers/users/start.py:68
+msgid "Quydagilardan  bittasini tanlashingiz mumkun 👇"
+msgstr "You can choose bellow buttons 👇"
+
+#: handlers/users/feedback.py:13
+msgid "Adminga xabar yuborishingiz mumukun"
+msgstr "Send message "
+
+#: handlers/users/feedback.py:20
+msgid "Xabar matnini kiriting:"
+msgstr "Please, enter message"
+
+#: handlers/users/feedback.py:33
+msgid "Xabar muvaffaqiyatli yuborildi!"
+msgstr "Message sended successfully"
+
+#: handlers/users/menu.py:13
+msgid "Siz menuni tanladingiz"
+msgstr "You select menu "
+
+#: handlers/users/settings.py:9
+msgid "Sozlamalar"
+msgstr "Settings"
+
+#: handlers/users/start.py:22
+msgid "Pastagilardan bittasini tanlashingiz mumkun 👇"
+msgstr "You can choose below buttons 👇"
+
+#: handlers/users/start.py:34
+msgid "Iltimos ismingizni kiriting "
+msgstr "Sorry, you have to enter your full name"
+
+#: handlers/users/start.py:44
+msgid "Iltimos pasdagi kontakt ulashish tugmasini bosing 📞"
+msgstr "Please, send contact with button 📞 "
+
+#: handlers/users/start.py:54
+msgid "❌ Telefon nomer formati xato "
+msgstr "❌ Phone number format error "
+
+#: handlers/users/start.py:66
+msgid "Muvofaqiyatli ro'yhatdan o'ttingiz  ✅ "
+msgstr "You are register successfully  ✅ "
+
+#: handlers/users/start.py:72
+msgid "Iltimos kiyenroq urunib ko'ring"
+msgstr "Please, try again "
+
+msgid "Til o'zgartirildi"
+msgstr "Successfully language changed"
+
+
+#: keyboards/command.py:7
+msgid "Raqamni yuborish"
+msgstr "Share phone number"
+
+#: keyboards/default/users.py:8
+msgid "Menu 🌯"
+msgstr "Menu 🌯"
+
+#: keyboards/default/users.py:11
+msgid "Mening zakazlarim 🛍"
+msgstr "My orders 🛍"
+
+#: keyboards/default/users.py:14
+msgid "Fikir qoldirish ✍️"
+msgstr "Add feedback ✍️ "
+
+#: keyboards/default/users.py:15
+msgid "Sozlamalar ⚙️"
+msgstr "Settings ⚙️"
+
+#: keyboards/default/users.py:42
+msgid "Mening manzilim 🗺 "
+msgstr "My location 🗺 "
+
+#: keyboards/default/users.py:45
+msgid "Lokatsiya junatish 📍"
+msgstr "Send my location 📍"
+
+#: keyboards/default/users.py:46 keyboards/default/users.py:60
+#: keyboards/default/users.py:73
+msgid "Orqaga ⬅️"
+msgstr "Back ⬅️"
+
+#: keyboards/default/users.py:57
+msgid "Tilni o'zgartirish"
+msgstr "Change language"
+
+#: keyboards/default/users.py:70
+msgid "Xabarni Yuborish"
+msgstr "Send message"
+

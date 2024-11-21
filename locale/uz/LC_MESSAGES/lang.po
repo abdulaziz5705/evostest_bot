@@ -1,0 +1,116 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-11-21 23:35+0500\n"
+"PO-Revision-Date: 2024-11-20 17:30+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/back.py:14 handlers/users/start.py:68
+msgid "Quydagilardan  bittasini tanlashingiz mumkun 👇"
+msgstr ""
+
+#: handlers/users/feedback.py:13
+msgid "Adminga xabar yuborishingiz mumukun"
+msgstr ""
+
+#: handlers/users/feedback.py:20
+msgid "Xabar matnini kiriting:"
+msgstr ""
+
+#: handlers/users/feedback.py:33
+msgid "Xabar muvaffaqiyatli yuborildi!"
+msgstr ""
+
+#: handlers/users/menu.py:13
+msgid "Siz menuni tanladingiz"
+msgstr ""
+
+#: handlers/users/settings.py:9
+msgid "Sozlamalar"
+msgstr ""
+
+#: handlers/users/start.py:22
+msgid "Pastagilardan bittasini tanlashingiz mumkun 👇"
+msgstr ""
+
+#: handlers/users/start.py:34
+msgid "Iltimos ismingizni kiriting "
+msgstr ""
+
+#: handlers/users/start.py:44
+msgid "Iltimos pasdagi kontakt ulashish tugmasini bosing 📞"
+msgstr ""
+
+#: handlers/users/start.py:54
+msgid "❌ Telefon nomer formati xato "
+msgstr ""
+
+#: handlers/users/start.py:66
+msgid "Muvofaqiyatli ro'yhatdan o'ttingiz  ✅ "
+msgstr ""
+
+#: handlers/users/start.py:72
+msgid "Iltimos kiyenroq urunib ko'ring"
+msgstr ""
+
+#: handlers/users/start.py:92
+msgid "Til o'zgartirildi"
+msgstr ""
+
+#: keyboards/command.py:7
+msgid "Raqamni yuborish"
+msgstr ""
+
+#: keyboards/default/users.py:8
+msgid "Menu 🌯"
+msgstr ""
+
+#: keyboards/default/users.py:11
+msgid "Mening zakazlarim 🛍"
+msgstr ""
+
+#: keyboards/default/users.py:14
+msgid "Fikir qoldirish ✍️"
+msgstr ""
+
+#: keyboards/default/users.py:15
+msgid "Sozlamalar ⚙️"
+msgstr ""
+
+#: keyboards/default/users.py:42
+msgid "Mening manzilim 🗺 "
+msgstr ""
+
+#: keyboards/default/users.py:45
+msgid "Lokatsiya junatish 📍"
+msgstr ""
+
+#: keyboards/default/users.py:46 keyboards/default/users.py:60
+#: keyboards/default/users.py:73
+msgid "Orqaga ⬅️"
+msgstr ""
+
+#: keyboards/default/users.py:57
+msgid "Tilni o'zgartirish"
+msgstr ""
+
+#: keyboards/default/users.py:70
+msgid "Xabarni Yuborish"
+msgstr ""
+
+#~ msgid "Share phone number"
+#~ msgstr ""
+
