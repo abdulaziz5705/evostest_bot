@@ -10,3 +10,4 @@ pybabel compile -d locale -D lang
 -------------
 pg_dump -U postgres -h source_host -d source_dbname -F c -f /tmp/mydb_backup.sql
 psql -U sanjarbek -h localhost -d water /tmp/backup1.sql
+946718299

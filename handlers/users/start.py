@@ -4,7 +4,7 @@ from aiogram.types import Message, ContentTypes, ReplyKeyboardRemove
 from loader import _
 from keyboards.default.users import languages, users_menu_keyboard_with_lang
 from keyboards.command import phone_number_keyboard
-from keyboards.default.users import users_menu_keyboard, main_menu_keyboard, settings_keyboard, feedbact_keyboard
+from keyboards.default.users import  settings_keyboard
 from loader import dp
 from states.users import RegisterState
 from utils.get_lang_code import get_lang_by_text
@@ -90,4 +90,4 @@ async def change_language_handler(message: Message):
 @dp.message_handler(text=["🇷🇺 Russian", "🇺🇿 Uzbek", "🇬🇧 English"])
 async def change_language_handler_user(message: Message):
     text = _("Til o'zgartirildi")
-    await message.answer(text=text, reply_markup=await users_menu_keyboard())
+    await message.answer(text=text, reply_markup=await settings_keyboard())

@@ -28,11 +28,8 @@ async def get_message(message: Message):
     user_message = message.text
 
     messages_for_admin[user_id] = user_message
-
-    await message.answer(
-        _("Xabar muvaffaqiyatli yuborildi!"),
-        reply_markup=await users_menu_keyboard()
-    )
+    text = _("Xabar muvaffaqiyatli yuborildi!")
+    await message.answer(text=text, reply_markup=await users_menu_keyboard())
 
     admin_id = os.getenv("ADMINS")
     await message.bot.send_message(
